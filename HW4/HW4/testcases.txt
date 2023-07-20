@@ -1,0 +1,77 @@
+----------------
+TESTCASE 1
+----------------
+routesnew.txt
+timesnew.txt
+Adana
+21:40
+EXIT
+
+
+----------------
+TESTCASE 2
+----------------
+routesnew.txt
+timesnew.txt
+Istanbul
+03:45
+EXIT
+
+
+----------------
+TESTCASE 3
+----------------
+routesnew.txt
+timesnew.txt
+Izmir
+11:30
+Istanbul
+23:00
+EXIT
+
+
+----------------
+TESTCASE 4
+----------------
+routesnew.txt
+timesnew.txt
+Denizli
+18:00
+EXIT
+
+
+----------------
+TESTCASE 5
+----------------
+route.txt
+routesnew.txt
+timesnew
+timesnew.txt
+gaziantep
+08:00
+EXIT
+
+
+----------------
+TESTCASE 6
+----------------
+routesnew.txt
+timesnew.txt
+Antalya
+21:aa
+1:10
+21:444
+21:45
+EXIT
+
+
+----------------
+TESTCASE7
+----------------
+routesnew.txt
+timesnew.txt
+Ankara
+24:00
+09:60
+23:59
+EXIT

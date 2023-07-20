@@ -1,0 +1,101 @@
+OUTPUT FOR TEST CASE 1
+---------------------------------------------------------
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: Adana
+Please enter start time of travel: 21:40
+The search results are:
+Adana Ankara 23:45
+Adana Ankara 22:00
+Please enter departure location:
+
+
+
+OUTPUT FOR TEST CASE 2
+---------------------------------------------------------
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: Istanbul
+Please enter start time of travel: 03:45
+The search results are:
+Istanbul Ankara 12:00
+Istanbul Izmir 15:00
+Istanbul Trabzon 22:45
+Istanbul Trabzon 20:30
+Istanbul Trabzon 08:00
+Please enter departure location:
+
+
+
+OUTPUT FOR TEST CASE 3
+---------------------------------------------------------
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: Izmir
+Please enter start time of travel: 11:30
+The search results are:
+Please enter departure location: Istanbul
+Please enter start time of travel: 23:00
+The search results are:
+Please enter departure location:
+
+
+
+
+OUTPUT FOR TEST CASE 4
+---------------------------------------------------------
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: Denizli
+Please enter start time of travel: 18:00
+The search results are:
+Denizli Antalya 18:30
+Please enter departure location:
+
+
+
+OUTPUT FOR TEST CASE 5
+---------------------------------------------------------
+Please enter a filename for route database: route.txt
+cannot open routes database file
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew
+cannot open times database file
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: gaziantep
+Please enter start time of travel: 08:00
+The search results are:
+Please enter departure location:
+
+
+
+OUTPUT FOR TEST CASE 6
+---------------------------------------------------------
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: Antalya
+Please enter start time of travel: 21:aa
+Time is not in correct format
+Please enter start time of travel: 1:10
+Time is not in correct format
+Please enter start time of travel: 21:444
+Time is not in correct format
+Please enter start time of travel: 21:45
+The search results are:
+Antalya Sarigol 21:45
+Please enter departure location:
+
+
+
+OUTPUT FOR TEST CASE 7
+---------------------------------------------------------
+Please enter a filename for route database: routesnew.txt
+Please enter a filename for time database: timesnew.txt
+Please enter departure location: Ankara
+Please enter start time of travel: 24:00
+Time is not in correct format
+Please enter start time of travel: 09:60
+Time is not in correct format
+Please enter start time of travel: 23:59
+The search results are:
+Please enter departure location:
